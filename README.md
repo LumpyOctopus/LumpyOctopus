@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thompsonspf@gmail.com**
 
-- ⚡ Fun fact **I am not afraid to get my hands dirty and start at the bottom.**
+- ⚡ Fun fact **I am not afraid to get my hands dirty and starting at the bottom.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
