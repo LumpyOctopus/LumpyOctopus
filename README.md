@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LumpyOctopus](https://github.com/LumpyOctopus)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/394033909374120085?bpli=1&pli=1](https://www.blogger.com/blog/posts/394033909374120085?bpli=1&pli=1)
+- 📝 I regularly write articles on [Blogger](https://www.blogger.com/blog/posts/394033909374120085?bpli=1&pli=1)
 
 - 📫 How to reach me **thompsonspf@gmail.com**
 
