@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LumpyOctopus](https://github.com/LumpyOctopus)
+- 👨‍💻 All of my projects are available [here](https://github.com/LumpyOctopus)
 
 - 📝 I regularly write articles on [Blogger](https://www.blogger.com/blog/posts/394033909374120085?bpli=1&pli=1)
 
