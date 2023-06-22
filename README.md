@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Terry Thompson</h1>
-<h3 align="center">A Jack-of-all-Trades turned Data Scientist in the United States</h3>
+<h3 align="center">A Multifaceted Problem Solver in the United States</h3>
 
 - 🔭 I’m currently working on [time series analysis](https://github.com/LumpyOctopus/TechInvest-NASDAQ-Prediction)
 
