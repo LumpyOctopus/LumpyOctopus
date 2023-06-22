@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [time series analysis](https://github.com/LumpyOctopus/TechInvest-NASDAQ-Prediction)
 
-- 🌱 I’m currently learning **Apex, Neural Networks, and Farming.**
+- 🌱 I’m currently learning **Apex and Neural Networks.**
 
 - 👯 I’m looking to collaborate on **projects.**
 
